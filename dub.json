@@ -1,0 +1,14 @@
+{
+	"name": "brawller",
+	"authors": [
+		"sherb"
+	],
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2017, sherb",
+	"license": "proprietary",
+	"lflags" : ["+C:\\Users\\sherb\\Documents\\D\\Brawller\\DSFMLC\\lib\\"],
+	"dependencies": {
+		"dsfml": "~>2.1",
+		"derelict-ode": "~>2.0.0"
+	}
+}

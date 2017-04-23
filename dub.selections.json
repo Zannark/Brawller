@@ -1,0 +1,8 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"derelict-ode": "2.0.0",
+		"derelict-util": "2.1.0",
+		"dsfml": "2.1.1"
+	}
+}
