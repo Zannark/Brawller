@@ -30,7 +30,7 @@ class Level
 	private World LoadWorldFromFile()
 	{
 		throw new LevelException("Not yet implemented.");
-		return null;
+		//return null;
 	}
 
 	private World CurrentWorld;

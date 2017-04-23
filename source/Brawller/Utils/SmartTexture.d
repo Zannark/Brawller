@@ -49,6 +49,11 @@ struct SmartTexture
 		this.ObjectSprite.position(Position);
 	}
 
+	public void Move(Vector2f Offset)
+	{
+		this.ObjectSprite.move(Offset);
+	}
+
 	Texture ObjectTexture;
 	Sprite ObjectSprite;
 }
